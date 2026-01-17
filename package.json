@@ -1,0 +1,27 @@
+{
+  "name": "is-nonpresent",
+  "version": "1.0.0",
+  "description": "Check if the given value is nonpresent.",
+  "keywords": [
+    "is"
+  ],
+  "homepage": "https://github.com/10xly/is-nonpresent#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/is-nonpresent/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/is-nonpresent.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "es-logical-not-operator": "^1.0.0",
+    "is-present": "^1.0.0"
+  }
+}
